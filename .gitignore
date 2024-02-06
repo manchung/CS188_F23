@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.DS_Store
 
 # C extensions
 *.so
@@ -42,7 +43,7 @@ htmlcov/
 .nox/
 .coverage
 .coverage.*
-.cache
+.cache*
 nosetests.xml
 coverage.xml
 *.cover
